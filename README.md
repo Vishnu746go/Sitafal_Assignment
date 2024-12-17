@@ -25,8 +25,7 @@ This project implements a **Retrieval-Augmented Generation (RAG)** pipeline to i
    - Extracts and aggregates data from relevant PDFs to generate structured comparison responses.
 
 4. **Response Generation**:
-   - Uses a retrieval-augmented prompt format to ensure accurate and factual responses.
-   - Provides detailed explanations while retaining contextual accuracy.
+   - Uses a retrieval-augmented prompt format to generate responses.
 
 ---
 
